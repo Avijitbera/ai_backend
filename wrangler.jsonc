@@ -1,0 +1,15 @@
+onc
+{
+  "name": "multi-tenant-saas-backend",
+  "main": "src/index.ts",
+  "compatibility_date": "2024-04-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "id": "",
+      "name": "multi-tenant-saas-backend-db",
+      "preview_id": ""
+    }
+  ]
+}
